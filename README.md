@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Selenium, Java**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/as-akib)](https://github.com/as-akib?tab=repositories)
+- 👨‍💻 All of my projects are available at [(Portfolio)](https://github.com/as-akib?tab=repositories)
 
 - 📫 How to reach me **akibsiddiquee31@gmail.com**
 
-- 📄 Know about my experiences [My CV](shorturl.at/bfxKT)
+- 📄 Know about my experiences [shorturl.at/bfxKT](shorturl.at/bfxKT)
 
 - ⚡ Fun fact **"Love to find bugs"**
 
