@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Selenium, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/as-akib](https://github.com/as-akib)
+- 👨‍💻 All of my projects are available at [(https://github.com/as-akib)](https://github.com/as-akib?tab=repositories)
 
 - 📫 How to reach me **akibsiddiquee31@gmail.com**
 
