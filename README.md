@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **akibsiddiquee31@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bfxKT](shorturl.at/bfxKT)
+- 📄 Know about my experiences [(My CV)](https://drive.google.com/file/d/1Fc2o88PH15dZ22m57XMjsQ6YsjFikik8/view?usp=share_link)
 
 - ⚡ Fun fact **"Love to find bugs"**
 
